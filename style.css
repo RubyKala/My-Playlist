@@ -145,6 +145,14 @@ body {
 
 
 }
+.amine{
+ color:white;
+  margin: 20px 0;
+ text-align: justify;
+ font-family:sans-serif;
+ text-decoration:none;
+}
+
 
 .featured-button {
   background-color: #9e3df8;
