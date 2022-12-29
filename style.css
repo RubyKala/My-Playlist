@@ -320,6 +320,9 @@ font-weight: bold;
      font-family: cursive;
   
   }
+  .featured-content{
+    background-repeat: no-repeat;
+  }
   .menu-container{
     width: 50px;
    
